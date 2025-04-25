@@ -1,0 +1,4942 @@
+[
+    {
+        "question_number": 1,
+        "question": "How far am I allowed to fly an open-class UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Close enough to be able to stay in visual line of sight (VLOS) with the UAV",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "At a maximum distance of 200 meters from the remote operator's location",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "At a distance where I can clearly see the UAV without technical assistance and scan the airspace",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "At a distance specified in the manufacturer's manual, which is contained in the UAV packaging",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "question": "Can alcohol consumption affect the pilot in terms of flight safety?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "No, alcohol consumption does not affect operators",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Yes, but only if the blood alcohol level is above 0.5 parts per thousand",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yes, always",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Only when flying in uncontrolled airspace",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "question": "Is it permitted to fly open-class UAVs over uninvolved persons?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "No, flying over uninvolved persons is always prohibited",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Yes, with a subcategory A1 pilot license and a UAV with a C0 marking or a UAV below 250g with an operating speed below 19m/s, but it is best to avoid it",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Yes, but only when operating in subcategory A1 and A2",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Only when operating in an unspecified category",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "question": "Which suggestion about operating UAVs over gatherings of people is correct?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Allowed, when flying at least 120 meters above ground level",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "With prior consent of the individuals",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "When individuals are involved in the business",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "In the open category, flying over gatherings of people is prohibited",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "question": "What is the distance that you must maintain the open-class UAV from the nearest point on the earth's surface when it begins its flight from natural altitude on the ground?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "50 m",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "100 m",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "120 m",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "150 m",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "question": "When using an observer to control the UAV with the help of an optical system connected to the UAV camera, as is done in FPV, who is responsible for the safety of the flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In any case, the pilot remains responsible for the safety of the flight",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "In FPV mode, the UAV observer is responsible for the safety of the flight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Flight safety depends on the weight of the UAV",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Responsibility is shared between the UAV pilot and the UAV observer",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "question": "What do we take into account for the flight duration of a UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The planned flight duration must not exceed 70% of the maximum autonomy of the UAV, so as to allow for a safe return in the event of unforeseen or emergency situations",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The planned flight time may be equal to the maximum",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The planned flight time must be the minimum possible",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I am not allowed to land my UAV before the end of the scheduled flight time",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "question": "Which of the following safety-related factors is NOT a reason for postponing a UAV flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Weak GPS signal (when available)",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Low battery detection during pre-flight check",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Cloud height level 300 meters",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Wind outside the specifications of the UAV",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "question": "Which of the following parameters is not related to flight safety during pre-flight inspection?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The weight of the unmanned aircraft",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The suitability of the weather conditions",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The suitability of the operating area (obstacles, people in the area)",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The battery charge level",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "question": "Can a UAV operating in the open category transport hazardous materials?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "No, the transport of hazardous materials in the open category is prohibited",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Yes, if the UAS is up to 250gr",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "No, unless he has a special permit",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Yes, up to the limit of the operational category",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "question": "Which of the following is considered a hazardous material in UAVs?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Flammable liquids or solids",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Gases",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Corrosive substances",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Mechanical tools",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "question": "When checking the UAV before flight, the UAV pilot needs to check:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "the correct position of the center of gravity in custom wing constructions",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "the safe placement of the propellers",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "flight plans foreseen for manned aircraft in the surrounding area",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "the surrounding airspace and its other users",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "question": "What should be taken into account in the event of an upcoming storm?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "My UAV can be damaged by lightning",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Strong gusts may occur, exceeding the specifications of my UAV",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "My remote control may stop working",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "If it does not start raining, it is not necessary to take the above into account",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "question": "Is the operation of UAVs permitted within 5 km of the airport?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "I should not fly in the airport runway area",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "I observe the appropriate UAV geographic zones (when defined) in the operational area",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Only after I have received a special flight permit from the EEC authorities",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Can I operate my UAV in 'no-fly zones' around the airport?",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "question": "What is the horizontal safety distance that those not involved in a UAV flight in category A2 and marked C2 must maintain?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Distance of at least 100m horizontally",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "At least 30m, otherwise if the UAV has the low speed mode activated, then the minimum horizontal distance is 5m",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Distance of at least 50m vertically",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The safety distance depends on the weight of the SMIEA",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "question": "How can I define gatherings or gatherings of people?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "A gathering or gathering of people is considered when even one person in the group cannot move freely",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Groups of people moving together during rush hour",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "A shopping street involves gatherings of people, regardless of the time of day",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Three or more people always represent a gathering of people",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "question": "During the open category UAV flight, the pilot must NOT:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "to control the surrounding airspace for other users",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "land immediately when encountering another aircraft",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "fly higher than 120 meters from the nearest ground point",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "operate its UAS in a manner that does not endanger uninvolved persons",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "question": "Which of the following options does not concern an airspace user?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Parachute and parachutists",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Manned gliders and hang gliders",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Remotely operated model aircraft",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Helicopter airlift (HEMS)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "question": "Which of the following statements is true?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Only the direction of take-off of the UAV must be visually scanned for other airspace users",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The pilot must land immediately when an aircraft approaches",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "When there is a risk of collision, aircraft always maneuver to the left",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Manned aviation has lower priority than unmanned aviation",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "question": "Which statement regarding the maximum operating altitude of a glider-glider type UAV is correct for the open category?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "It can fly up to 120 meters above the nearest point on the earth's surface near airports",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The maximum operating height of unmanned gliders is 120 meters, regardless of weight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The maximum operating height for unmanned gliders is 120 meters, except in model flight areas, where it is always limited to 300 meters",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Glider-glider type UAV with MTOM up to 10kg including load, may remain above 120 metres from the nearest point of ground, provided it does not exceed 120 metres above the operator",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 21,
+        "question": "FPV (First Person View) Flight:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "never allowed in the open category",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "allowed at a safe distance from people and homes",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "allowed when wearing virtual reality glasses",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "permitted with a UAV observer",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 22,
+        "question": "Which statement regarding the evaluation of the presence of uninvolved individuals is true?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Trees and foliage should not be taken into account when assessing the presence of an uninvolved person",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "A person observing the UAV flight is automatically an involved person",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Only upon explicit agreement within the framework of the UAV flight can a person be considered as involved",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Every person who participates in an event that is videotaped is automatically an involved person",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 23,
+        "question": "Which of the following is a non-involved person?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Remote operator",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "UAV observer",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "A hiker observing the flight",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Persons who were informed and expressly agreed to participate in the flight",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 24,
+        "question": "Which of the following acts could be defined as careless or reckless UAV flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "flights in urban and residential environments",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "flights conducted in proximity to emergency situations",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "flights in cloudy weather conditions",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "flights near UAV geographical zones",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 25,
+        "question": "Is it permitted to drop material from the UAV during an open category flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "yes, if the drop height is below 5m",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "yes, if the falling material weighs less than 120g",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "no, but exceptions are generally defined by the principle",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "no, throwing is never allowed in the open category",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 26,
+        "question": "Why does the regulation limit the flight altitude of UAVs in the open category?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "the propagation of radio waves is limited by the lack of air above the height limit",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "clouds begin to develop above the threshold height that affects visual contact with the UAV",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "the UAV could affect general air traffic above the 120m limit",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "prevailing winds above the threshold height are too strong for open category users to manage",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 27,
+        "question": "What is the definition of the acronym VLOS?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Visual limitation of vision",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Visual limitation on the website",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Line of sight",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Virtual line of sight",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 28,
+        "question": "The operator/owner/operator of the UAV:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "complies with the applicable provisions of the laws on the protection of personal data",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "maintains safe distances from aircraft of all types, persons and mobile/immobile objects",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "is responsible for avoiding collisions in the air with other aircraft of any kind or with obstacles",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "All answers are correct",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 29,
+        "question": "For which category of UAVs is it required to obtain an 'Operation Authorization' from the Hellenic Civil Aviation Authority?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Certified Category",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Special and Open Category",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Special Category",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Open Category",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 30,
+        "question": "In the UAS Open Category",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The maximum take-off mass (MTOM) is greater than 25 kg",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The flight is conducted at a distance of less than 400m from the UAV operator",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The operator (remote pilot) has direct visual contact with the UAV",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "All answers are correct",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 31,
+        "question": "The UAV pilot proficiency certificate is valid for....",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Three (3) years and for renewal the pilot must have completed 10 hours of flight time in the last three (3) years",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Five (5) years",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Two (2) years and for renewal the pilot must have completed 10 hours of flight time in the last two (2) years",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "One (1) year",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 32,
+        "question": "What is EASA?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Global Organization for the Safety of UAVs",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "International Aviation Safety Agency",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "European Aviation Safety Agency",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Hellenic Aviation Safety Agency",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 33,
+        "question": "The operator/owner/operator of the UAV:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "is liable for any damages caused during the execution of UAV flights",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "is responsible for identifying the UAV with an embedded plate or indelible writing, with the registration number in the CAA registry",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "is responsible for taking into account weather conditions in relation to the technical capabilities of the UAV",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "All answers are correct",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 34,
+        "question": "According to the UAV Regulations, a pilot who has committed a violation of air traffic regulations and rules",
+        "answers": [
+            {
+                "option": "a",
+                "text": "he does not have the right to express his views on the misconduct attributed to him because this falls within the exclusive jurisdiction of the prosecutorial authorities",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "has the right to express his views in writing on the misconduct attributed to him, within a reasonable time limit specified in the summons to appear sent to him",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "has the right to express his views in writing regarding the misconduct attributed to him without any time limit",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "None of the above answers are correct",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 35,
+        "question": "The scope of the UAS Regulations, in addition to UAS, covers:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "balloons",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "model airplanes",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "state-owned UAVs",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "none of the above",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 36,
+        "question": "How are airspace restrictions applied to UAV activities?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Airspace restrictions do not apply to UAVs due to their low flight altitude",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Airspace restrictions must be observed and updated on a weekly basis",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The geofencing information must be updated to be valid for the intended operational location",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "It is the pilot's responsibility to update the geofencing function",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 37,
+        "question": "How often is it necessary to update geofencing information?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Before each flight",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Once a week",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Only when changes to the flight location apply",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "When there is a notice of changes",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 38,
+        "question": "Who is responsible for violating airspace restrictions during FPV flights?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The pilot is always responsible for the safety of the flight as well as for the violation of any airspace restrictions",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The UAV observer is responsible for not violating any airspace restrictions, as he can see the UAV clearly",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The UAV pilot is responsible for the safe conduct of the flight",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "the UAV has technical systems to avoid airspace violations, therefore it is the manufacturer's responsibility",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 39,
+        "question": "Is it permitted to fly within geographic zones (when designated) for UAVs?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes, as long as the flight altitude is limited to 50 meters and the weather conditions are good",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Yes, as long as the weight of the UAV is less than 2 kg and the weather conditions are good",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Flights are permitted in accordance with the conditions and/or restrictions of the zones",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "No, all flights to be carried out in these zones require permission from the competent authority",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 40,
+        "question": "Where can UAV geographic zones exist (when defined)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Near airports",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Over rural areas",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Over lakes and rivers",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Near points of interest",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 41,
+        "question": "What is D = Danger, i.e.: Dangerous Area?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Airspace, of specified dimensions, within which aircraft flights are permitted following a special permit",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Airspace, of specified dimensions, within which conditions that pose a risk to flying aircraft may prevail at certain times",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Airspace, of specified dimensions, within which aircraft flights are prohibited",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Area in which we have controlled gunfire",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 42,
+        "question": "ICAO rates airspace from A to G depending on",
+        "answers": [
+            {
+                "option": "a",
+                "text": "whether it is controlled or uncontrolled",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "its importance and starts with type A which is the highest in the ranking",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "the specific levels of air traffic service provision for each type",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "All of the above answers are correct",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 43,
+        "question": "Which of the following does U-Space include and ensure the safe conduct of UAV flight operations?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "infrastructure",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "services",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "procedures",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "all of the above",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 44,
+        "question": "What are the fundamental elements of the U-space system?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "registration, geo-awareness and remote identification",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "registration and certification",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "geo-awareness and remote identification",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "none of the above",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 45,
+        "question": "What is the 'follow me' function in a UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "when the pilot follows the UAV's course",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "the UAV continuously follows the operator, within a predetermined radius",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "either the operator follows the UAV or the UAV follows the operator",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "all of the above",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 46,
+        "question": "Which of the following statements is true:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "EASA regulations for UAVs do not apply to UAVs flying indoors",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "EASA regulations for UAVs do not apply to aircraft flying on your property, such as in the garden next to your house",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "EASA defines 'gatherings of people' as crowds of 12 or more people",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "EASA defines 'gatherings of people' as crowds of 100 or more people",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 47,
+        "question": "The open category of UAV flights requires:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Permission from the competent authority",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Safety risk assessment or operational declaration to be submitted to the competent authority",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Operator registration, pilot proficiency certificate and compliance with category operational limitations",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Certification of the UAV and operator",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 48,
+        "question": "What are the requirements for registering UAV operators in the open category?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Registration of all UAVs",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Recording of operators with UAVs over 250g, or UAVs <250g with recording equipment such as a camera or microphone",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Registration of operators using UAVs for commercial purposes",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Registration of UAVs over 150g",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 49,
+        "question": "What is the maximum height that a UAV will fly in the open category?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "100m",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "120m",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "150m",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "120m, but may be less if a lower maximum height is required by the competent authority",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 50,
+        "question": "A 3kg UAV flies within 10 metres of uninvolved people. Is this operation legal?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "No, this SMAEA belongs to category A2 and, therefore, must maintain a distance of at least 30m from uninvolved persons, unless flying in 'low speed mode'",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Yes, this belongs to category A2 which has a safe horizontal distance of 10m",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "No, this belongs to category A3 and must maintain a safe horizontal distance of 150m",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Yes, it belongs to category A1 and can fly over uninvolved people, as long as it is not a crowd",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 51,
+        "question": "If a UAV operator violates European regulations on January 1, 2021, they will be subject to:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Nothing - the Regulation will not have been implemented yet",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Fine depending on the category of the UAV (C0 to C4)",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Criminal prosecution against the operator",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The sanctions provided for by the state in which the infringement of the Regulation took place",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 52,
+        "question": "Which of the following statements is false:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The UAV that transports hazardous materials and/or flies over a large number of people belongs to the certified category",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "a UAV with a maximum dimension of less than 3 meters and flying over a crowd of people may fall into the 'special' category",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The UAV in the open category can never fly over crowds of people",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "the UAV in the open category can fly over a crowd of people if it has received relevant permission",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 53,
+        "question": "Which of the following statements is false?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "A UAS operator in the open category must be licensed and have a minimum age of 16 years or 12 years if under the supervision of a certified UAS operator over 16 years of age",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "A UAS operator in the open category must hold a UAS operator proficiency certificate appropriate to the subcategory of operation",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "A UAV operator in the open category may fly beyond line of sight if his UAV weighs less than 250g",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "A UAV operator in the open category must always fly within line of sight, unless flying in follow-me mode or using an observer who keeps the UAV in line of sight",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 54,
+        "question": "Which of the following is not a responsibility of the UAV operator?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "failing to perform duties under the influence of psychotropic substances or alcohol or due to injury, fatigue, medication, illness or other causes",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "to have proficiency in the subcategory of the intended UAV flights and to carry the appropriate certificates for the execution of these flights",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "to receive information about additional UAV flights, in any UAV geographical zones (when defined) published in the country's AIR",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "not be required to comply with the operator's user manual and procedures if he has the competence and experience",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 55,
+        "question": "Which of the following statements is false?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Each UAV operator shall submit a report to the competent authority for incidents related to flight safety",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Upon receipt of this information, EASA and the competent authority shall take the necessary measures to address any flight safety issues",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "When the competent authority or EASA takes the necessary measures, it shall immediately inform all interested parties, who shall comply with those measures",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "UAV operators are required to report only aircraft accidents",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 56,
+        "question": "On June 6, 2021, can a UAV be used without a CE marking?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "No, all UAVs must have a CE marking to be legally used",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Yes, it can be used in the open category as well as a CE marked UAV",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yes, but it can only be used in the limited open category",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Yes, the manufacturer may be asked to place a special sticker stating that it will be used in the open category",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 57,
+        "question": "Which of the following statements is true?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "EASA regulations are binding in their entirety, while AMC (Acceptable Means of Compliance) and GM (Guidance Material) are non-binding",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "EASA regulations are non-binding",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "EASA regulations and AMC and GM are both binding in their entirety",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "EASA regulations and AMC and GM are both non-binding",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 58,
+        "question": "Where can you find the European legal texts related to Regulation 947/2019?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In the Official Journal of the European Union (www.eurlex.europa.eu)",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "On the website of the European Court of Justice (www.curia.europa.eu)",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "On any UAV manufacturer's website",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "On any local UAV operator website",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 59,
+        "question": "In which countries do the provisions of Regulation 947/2019 apply?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In EASA Member States",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Only in Luxembourg, Germany, France and Belgium",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "In the Member States of the European Union",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Only in Luxembourg",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 60,
+        "question": "Which of the following conditions require the registration of a UAV operator?\n1) The operator must be at least 16 years old.\n2) The UAV must have an MTOM of 250gr or greater\n3) The UAV (which is not a toy) must be equipped with a camera\n4) Drone flights must take place in an urban area\n5) The UAV must have a maximum takeoff mass below 250gr but must have a very high speed (above 90 km/h)",
+        "answers": [
+            {
+                "option": "a",
+                "text": "1, 3 and 5",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "1, 3 and 4",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "2, 3 and 4",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "2, 3 and 5",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 61,
+        "question": "In which OPEN subcategory is the largest C3-marked UAV allowed?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "A1, A2 and A3",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "A2 and A3",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "A3 only",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "A1 only",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 62,
+        "question": "What combination of 'UAV marking' and 'OPEN subcategory' allows UAV flights to be conducted closer to uninvolved persons?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "C0 / A1",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "C2 / A2",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "C3 / A2",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "C4 / A3",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 63,
+        "question": "How is an OPEN subcategory UAV classified whose weight ranges between 0.5 and 2 kg, during the transition period (Before JAN2023)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "A1 only",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "A1 and A2",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Only A2",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "A3 only",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 64,
+        "question": "Can a Member State set a minimum age for an operator higher than 16 years?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "yes, he can turn 18",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "no, it can't",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "yes, maybe in one year",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "is not specified in the European regulations",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 65,
+        "question": "If the age limit for UAV pilots is reduced by 1 year in Greece, can a 15-year-old pilot fly a UAV in Italy?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "can as he has an EASA license",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "cannot",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "only if special approval is given by the Italian Civil Aviation Authority",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "depending on the category of UAV being flown",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 66,
+        "question": "The following factors affect the competence of the UAV operator, except:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Fatigue",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Alcohol",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Clothes",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Anxiety",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 67,
+        "question": "In case of illness, the UAV operator must:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "to ensure that his illness will not affect the safety of the flight",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "receive the necessary treatment and fly",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "cancel the flight in any case",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "to fly without any problems",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 68,
+        "question": "The situational awareness of the UAV operator consists of:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "ability of the operator to operate with the assistance of an observer",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "the pilot's ability to perceive, understand and deal with any potential hazard in the flight operating environment",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "the pilot's ability to operate a UAV beyond visual contact",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "the pilot's ability to operate using FPV equipment",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 69,
+        "question": "From a human factors perspective, what is the basic checklist to check the pilot's ability to perform a safe flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "I'M GOOD (Insulin Metabolism Glycemia Ophthalmology Orthopedics Disease)",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "I'M SAFE (Illness Medication Stress Alcohol Fatigue Emotion)",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "I'M WELL (Insulin Medication Wise Emotion Lens Lesion)",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I'M OK (Illness Metabolism Ophthalmology Knowledge)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 70,
+        "question": "What is the effect of alcohol on the behavior of a UAV operator?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Improved situational awareness",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Better reactivity during flight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Reduction of response time",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Better visualization of UAVs",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 71,
+        "question": "What is the valid explanation of the OODA decision-making process?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "UAVs bring many new great opportunities to the European market. Every UAV operator will then have to plan a business around this information, make a decision and act accordingly",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Omissions are inevitable during any UAV flight. The opinions of professionals should then be considered and balanced. Based on this information, the UAV operator should make a decision and act accordingly",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Objects close to the work should be detected by visual means. A strategy should be developed to avoid them. Based on this strategy, the UAV operator should make a decision and act accordingly",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Unusual situations should be constantly monitored through observations. Options for dealing with them should be identified and balanced. Based on this rapid analysis, the UAV operator should make a decision and act accordingly",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 72,
+        "question": "The following factors may affect the visual line of sight (VLOS) of the UAV operator?\n1. Weather\n2.Brightness\n3.People around\n4.Size of the ground station\n5. Visual aids in UAVs\n6. Size of the UAV",
+        "answers": [
+            {
+                "option": "a",
+                "text": "1, 2, 3 and 6",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "2, 3, 5 and 6",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "1, 2, 5 and 6",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "1, 2, 4 and 5",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 73,
+        "question": "Can a pilot accurately determine the distance between obstacles and an unmanned aircraft?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "any pilot can accurately determine the distance between obstacles and an unmanned aircraft, because this ability is innate",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "a pilot can barely determine the distance between obstacles and an unmanned aircraft",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "an experienced pilot can accurately determine the distance between obstacles and an unmanned aircraft",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "a pilot with good visual ability can accurately determine the distance between obstacles and the unmanned aircraft",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 74,
+        "question": "Can a pilot accurately determine the height of the UAV during flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Each pilot can precisely set the height of the SMI because it is inherent",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "An operator can barely determine the height of the UAV",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "An experienced operator can accurately determine the height of the UAV",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "A pilot with good visual ability can accurately determine the height of the UAV",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 75,
+        "question": "What is the procedure you should do before starting a flight considering situational awareness?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Check if the batteries are fully charged and the UAV frame is not damaged",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Check if the pilot has the necessary certificates to fly",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Check the flight area for obstacles or uninvolved persons",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Check the correct operation of the drone propulsion system",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 76,
+        "question": "Which lighting system should be incorporated into unmanned aircraft for night flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yellow/red strobe light",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "White strobe light",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Red/green strobe light",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Green strobe light",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 77,
+        "question": "Can a UAV pilot's skills be affected during a night flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Capabilities increase because at night the UAV pilot is alert for any incidents in the flight area",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The pilot's abilities are not affected during the night",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Operator skills are reduced at night because human perception is lower due to low visibility",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "The operator's abilities are reduced if sleep is needed, increasing fatigue and stress",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 78,
+        "question": "In general, the importance of vision in flight becomes apparent because the information that the pilot receives with his eyes...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "exceed 75%",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "is at least 50%",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "exceed 65%",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "none of the answers are correct",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 79,
+        "question": "Regarding alcohol and its consumption, we know that:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "after consumption, it affects the operator's judgment to such an extent that it significantly contributes to or may itself cause situations that will lead to an accident",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "is a substance that, above certain levels of concentration in the blood, induces sleep and with frequent use can cause chronic addiction",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "consuming the same amount affects the same person differently depending on their physical condition, their psychological state and the amount of food they have consumed",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "all of the above are correct and the responsible operators do not operate when under the influence of any direct or indirect symptom of alcohol consumption",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 80,
+        "question": "Headache after drinking alcohol and other unwanted side effects (hangover) remain evident in someone who has consumed alcohol even after:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "48 to 72 hours later",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "12 to 24 hours later",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "8 to 12 hours later",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "4 to 8 hours later",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 81,
+        "question": "A UAV operator who has consumed alcohol in any quantity even 24 hours before attempting will have the following undesirable side effects that are essential for an operator:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "It will have reduced reaction times and improved memory",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "He will have reduced reaction times and memory problems because the brain has a reduced ability to use oxygen",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "He will have reduced reaction times and problems with his memory because the partial pressure of oxygen in the brain will have increased, with all that this entails",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "He will have reduced reaction times without affecting memory regardless of whether he flies low or high – so the partial pressure of oxygen does not play a role",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 82,
+        "question": "The general rule regarding the consumption of alcoholic beverages and flying states that the pilot is prohibited from consuming alcohol before:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "8 hours – which is sufficient as long as no other reasons apply",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "12 hours – which is sufficient as long as no other reasons apply",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "24 hours – which is sufficient as long as no other reasons apply",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "48 hours – which is sufficient as long as no other reasons apply",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 83,
+        "question": "If someone has consumed alcohol, they can eliminate it and feel better if:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "take a nice cold bath",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "eat some food - especially bread",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "drink a strong, plain coffee",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "the only thing that helps eliminate alcohol from the body is the passage of time",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 84,
+        "question": "What 4 factors affect night vision?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "age, alcohol, height and smoking",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "age, lighting of instruments, height and smoking",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "instrument lighting, alcohol, height and smoking",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "age, alcohol, height and instrument lighting",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 85,
+        "question": "As operators, we protect our eyes and increase our visual acuity by always wearing quality sunglasses that meet specifications that:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "they protect us from ultraviolet A & B radiation",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "from the glare caused by strong light (e.g. that of reflections)",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "have permeability in the visible spectrum (500-780nm) so as not to impair color perception",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "all of the above answers are correct",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 86,
+        "question": "Dangerous behaviors occur to every UAV operator, to some extent, at some point. What are some of these dangerous behaviors?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Impulsive, arrogant behavior, resignation, excessive confidence",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Poor situational awareness, hasty judgments and lack of decision-making process",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Poor risk management and lack of stress management",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "All answers are correct",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 87,
+        "question": "What is the truth about the presence of alcohol in the human body?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "A small amount of alcohol increases visual acuity",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Drinking an equal amount of water will dilute the alcohol and relieve the upcoming headache",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Good judgment and decision-making ability can be negatively affected by even small amounts of alcohol",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "All answers are wrong",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 88,
+        "question": "Lack of experience will affect the decision-making process as follows:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "will accelerate it",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "will slow it down",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "will not affect it",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "will interrupt it",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 89,
+        "question": "In the event that a UAV crash causes injury, what do you do?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "seek medical attention",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "provide first aid",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "complete the incident report for the CAA",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "all of the above",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 90,
+        "question": "Ability errors only occur:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "to those with little or no experience",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "to those who are in the learning process",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "to those who have only partially learned a process or system",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "to those with experience",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 91,
+        "question": "When the flight operating area is hilly and includes obstacles (trees, buildings, etc.), what is the best technique for assessing the presence of an uninvolved person?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The UAV operator must give the order to start the flight",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The UAV operator must perform a thorough visual scan of the operating area",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The operator of the UAV should conduct an inspection around the flight operating area",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "The UAV pilot must use warning signals in the area with his mobile phone number",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 92,
+        "question": "Why is the permanent scanning of airspace particularly important during the operation of UAVs?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Because the weather can change quite quickly during the flight",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Because manned aircraft in general cannot detect to avoid UAVs",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Because it is important to detect increased activity at the nearest airport",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Due to birds that could fly too close and affect the UAV",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 93,
+        "question": "What should you do if during a UAV flight, a cyclist stops directly below your UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "You should wait in standstill mode until the cyclist leaves",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "You should climb as high as possible to maintain a safe distance with the bike",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "You should move your UAV as soon as possible to avoid an overflight situation",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "You must inform the cyclist that a UAV is flying overhead",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 94,
+        "question": "What should you do in case of loss of connection with your UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "You should try to approach the UAV to reestablish the connection",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "You need to wait, the connection will be restored by itself",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "You need to call the people in the neighborhood to get help",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "You have to wait, it will return when the batteries run out",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 95,
+        "question": "Which of the following should I check to assess the area of UAV operations?\n1.existence of roads\n2.existence of tall grass\n3.existence of pedestrians\n4.existence of beautiful photographic motives\n5.existence of bushes",
+        "answers": [
+            {
+                "option": "a",
+                "text": "1 and 3",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "1 and 5",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "2 and 5",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "3 and 4",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 96,
+        "question": "Which of the following should I check to assess the UAV flight area?\n1.existence of tall grass\n2. power poles\n3. existence of pedestrians\n4. existence of landscapes of photographic interest\n5. existence of bushes",
+        "answers": [
+            {
+                "option": "a",
+                "text": "2 and 3",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "2 and 5",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "3 and 4",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "1 and 5",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 97,
+        "question": "What should I check near the UAV flight area? Existence of...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "power poles and wind power stations",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "bushes and tall grass",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "landscapes of photographic interest",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "cliff",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 98,
+        "question": "What should I check near the UAV flight area? If any:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "roads and pedestrian streets",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "bushes and tall grass",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "landscapes of photographic interest",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "wind power plants and bird nests",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 99,
+        "question": "Why do I need to check for pedestrian walkways near the UAV flight area?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "To avoid flights with uninvolved persons",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "To avoid the routes shown in the photos",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "To avoid collisions with lamps and signs along the way",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "To use the route as a signpost during flight",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 100,
+        "question": "What should I check near the UAV flight area? Existence of...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "wind power plant",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "bushes and tall grass",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "landscapes of photographic interest",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "bird breeding",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 101,
+        "question": "I operate a UAV, marked C0, subcategory A1. Which of the following is true?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "I can fly over uninvolved individuals (avoid when possible) but never over gatherings",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "I operate the UAV in such a way as to avoid flying over gatherings of people, hoping that I do not fly over any uninvolved individuals",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "I can fly over groups of people and keep a minimum distance of 50 m from uninvolved people",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I am not allowed to fly over groups of people and to keep a minimum distance of 50 meters from uninvolved people",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 102,
+        "question": "I use a UAV, class C1, subcategory A1. Which of the following is true?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "I operate the UAV in such a way as to avoid flying over gatherings of people and I hope that I do not fly over any uninvolved individuals",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "I can fly over uninvolved individuals, but never over gatherings of individuals",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "I can fly over gatherings of people and keep a minimum distance of at least 50m from uninvolved people",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I can fly over gatherings of people and uninvolved individuals",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 103,
+        "question": "What kind of weather information should I take into account?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "wind speeds near the ground",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "hail forecast",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "air density near the surface",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "temperature forecast",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 104,
+        "question": "How does wind speed change with increasing altitude? The wind becomes...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "stronger",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "with strong gusts of wind",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "colder",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "weaker",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 105,
+        "question": "How/where can I find appropriate weather forecasts for flight preparation?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Flight weather data providers for UAVs",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Local information",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Application on my smartphone",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Local weather service",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 106,
+        "question": "What should I consider if I plan to use my UAV during rain?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Moisture can damage electronics",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Humidity can cause the lens to fog up",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Due to limited visibility, the radio connection may be disrupted",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Do I need to soak the device?",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 107,
+        "question": "What is a weather forecast?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Forecast of future weather for a specific time and location",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Summary of the most important weather components in the last few hours",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Summary of the most important weather components in recent days",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Forecasting the main future meteorological components for airports",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 108,
+        "question": "What data from a 'weather forecast' can be useful for UAV operation?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Temperature, wind, humidity, precipitation",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Flight visibility, atmospheric pressure",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "All data of a METAR weather report",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Ice and storm warnings, ozone and pollen levels",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 109,
+        "question": "Where can I find information about the performance limitations of your UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In the user manual of my SMIEA",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "I have to learn it by testing myself",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The general applicable UAV performance limitations are found in the AMC material",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "You can find general applicable UAV performance limitations on google",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 110,
+        "question": "Correctly complete the following sentence: 'A pre-flight checklist ...'",
+        "answers": [
+            {
+                "option": "a",
+                "text": "used by UAV operators to ensure a safe and legal flight",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "can be used by the police to check whether the pilot complies with the rules",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "can be used to inform uninvolved individuals so that they can 'get involved'",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "used only by professional operators",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 111,
+        "question": "What is a 'checklist' and how can it be used for UAV flights?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "It is a structured list of required items, things to do or points to consider. It can be used for pre-flight inspections, emergency procedures, maintenance",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "It is a list where you can write the dates of inspections (past and future)",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "It is a structured list of places you have checked in the past for your UAV operation. If you use this checklist, you don't need to evaluate the area the next time you want to fly your UAV there",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "It is a list that must be used to prove that you have performed all the necessary checks on your UAV on a regular basis. It is used for your safety and is checked by the police",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 112,
+        "question": "What should you do after assessing the area but before starting your UAV flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Adjust the UAV compass and set the RTH altitude",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Set up your GPS and put new batteries in your remote control",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Note the GPS location of the starting point and mark it with some sticks or stones",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Record the start-up process with your smartphone camera",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 113,
+        "question": "How do I react correctly in the event of an unexpected overflight of uninvolved persons (if not permitted)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "reduce as much as possible the time during which the UAV flies over these individuals",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "stop above the uninvolved person and wait until the person is out of sight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "I stop above the uninvolved person and attempt to immediately land the UAV",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I fly the UAV up and down so that the person notices it and leaves the area",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 114,
+        "question": "Which of the following is not an 'abnormal condition'?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "flying over uninvolved persons",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "GPS loss",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "engine loss",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "flight away from UAVs",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 115,
+        "question": "Which of the following is not an 'abnormal condition'?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "flight near a no-fly zone",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "sensor loss",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "drained batteries",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "GPS loss",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 116,
+        "question": "How can you define an 'abnormal situation' related to your UAV flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "A situation in which the flight flexibility of the UAV is degraded due to one or multiple unforeseen circumstances",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Only situations in which the crash of the UAV is inevitable due to complete loss of control",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "A condition is defined as 'abnormal' only when it is referred to as 'abnormal' in the AMC material or the user manual",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Only situations in which people who are not involved in every case are threatened. And when an accident is inevitable",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 117,
+        "question": "Which of the following can potentially lead to an 'abnormal condition' during the operation of the SMIEA?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Loss of C2 ligament",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Presence of tall grass",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Unexpected appearance of a swarm of bees",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "A person walking their dog near you",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 118,
+        "question": "What should I generally consider in an 'abnormal situation' during the flight of my UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "All UAVs are different, details should be checked with the UAV user manual before flight",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "All UAVs are different, details should be checked with relevant AMC material prior to operation",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "When it comes to an 'abnormal situation', the procedures are always the same, regardless of the UAV you use",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 119,
+        "question": "In case of loss of C2 ligament, what should I do first?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Try to regain the link by moving the UAV closer to the VLOS",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Shut down the engines",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Change the batteries in your remote control",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Read the user manual while maintaining the VLOS",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 120,
+        "question": "To take some photos on a huge steel bridge, I want to fly my UAV under it. What could happen?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Compass malfunction and loss of GPS signal",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Battery failure and engine loss",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Higher battery consumption",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Unexpected loss of VLOS",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 121,
+        "question": "What 'abnormal condition procedure' can also be used in the event of loss of control to prevent your UAV from drifting?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The procedure used for C2 ligament loss",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The procedure used for GPS loss",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The procedure used for engine failure",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The procedure used for battery fire",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 122,
+        "question": "Loss of connection between the remote control and the UAV is usually related to...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Distance between UAV and remote control",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Compass issues",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The reflection of water surfaces",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Uneven terrain",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 123,
+        "question": "What is the correct reaction when damage to the NMEA framework is discovered during flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Try to navigate and land safely",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Try to land immediately",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Enable Return to Home (RTH) function",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Shut down the engines",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 124,
+        "question": "What should you consider if your UAV was damaged in a collision?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The UAV is considered non-operational – functional until further notice",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "I need to glue the broken pieces together before the next flight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "I need to buy a new one",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I need to notify the insurance company",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 125,
+        "question": "What is the correct reaction if my UAV gets too close to another UAV (lack of airspace separation)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "I should reduce altitude, conduct evasive maneuvers and initiate landing procedure, activating RTH, if necessary",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "I will activate RTH and land",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "I will remove the controller in order to enable failSafe",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I will fly as far away from the other device as possible",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 126,
+        "question": "Which components should be checked for damage and wear after each flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Propellers and batteries",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Camera and its transportation",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Transmitter and camera",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Identification markings and external condition",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 127,
+        "question": "Why should I check and maintain my UAV after each flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "For the UAV to operate safely",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "To maintain insurance",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "To minimize repair costs",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "To save time for the next flight",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 128,
+        "question": "What should be done with batteries after a UAV flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Charge and store separately from the device",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Charging and inserting into the device",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Storage on the device",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Removal from the device",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 129,
+        "question": "What maintenance work should I do after each flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Check for damage, clean and remove batteries",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Damage check, cleaning and installation of a new memory card",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Cleaning, charging the batteries and installing a new memory card",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Check for damage, remove memory card and charge batteries",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 130,
+        "question": "How should batteries be stored?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Usually in a dark, dry place, between 15°C - 25°C, on a non-flammable surface and away from flammable materials, always following the instructions in the UAV user manual",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "In a dark place, at 15°C - 25°C, in their box",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "At more than 20°C, in their box",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "In a dark place, at a temperature below 10 ° C, on a non-flammable surface",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 131,
+        "question": "What should I do with damaged batteries?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Follow the instructions in the UAV user manual",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Remove from the device and discard",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Remove from the device, discharge and sell them",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Remove from the device, discharge and repair them",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 132,
+        "question": "Why do I need to replace damaged batteries/parts?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Because otherwise there is a risk of an accident",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Because otherwise I will no longer be insured",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Because otherwise I wouldn't be able to run the UAV at full power",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Because otherwise I would have to buy a new UAV soon",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 133,
+        "question": "Why is the defect and maintenance log useful?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "To identify recurring defects",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "For the list of all expenses",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "For information about a buyer",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "For a statistic of working hours and maintenance costs",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 134,
+        "question": "What is the purpose of the defect and maintenance log?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "To determine the spare parts that need to be replaced",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "For the list of all expenses",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "For information about a buyer",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "For a statistic of working hours and maintenance costs",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 135,
+        "question": "Why is it important to save/back up flight data (telemetry)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "For the reproduction of flights carried out in a digital environment",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "To repeat the flights that were made",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "For the submission of flight data to the competent authority",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "For submitting flight data to the insurance company",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 136,
+        "question": "I need to save/back up flight data (telemetry) in order to ___ the flight in a digital environment.",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Reproduce",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Repeat",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Match the pictures",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Inform the insurance company accordingly",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 137,
+        "question": "How do I store/back up my flight data properly?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "On a securely stored memory card",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "In a log file",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "On paper in a locked cabinet",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "In an application available on my smartphone",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 138,
+        "question": "What flight data should I save?\n1.Camera used\n2.Battery power used\n3.Points\n4.Flight altitudes",
+        "answers": [
+            {
+                "option": "a",
+                "text": "3 and 4",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "1 and 3",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "2 and 3",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "2 and 4",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 139,
+        "question": "What flight data should I save?\n1. Flight date\n2. Take-off and landing location\n3. Battery power used\n4. Flight stops",
+        "answers": [
+            {
+                "option": "a",
+                "text": "1 and 2",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "1 and 4",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "2 and 4",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "1 and 3",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 140,
+        "question": "What flight data should I save?\n1.Rotational speeds\n2.Start and landing time\n3.Flight altitudes\n4. Flight stops",
+        "answers": [
+            {
+                "option": "a",
+                "text": "2 and 3",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "1 and 4",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "2 and 4",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "1 and 3",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 141,
+        "question": "What is the force acting on an aircraft that prevents its flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "uplift",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "weight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "drag",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "thrust",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 142,
+        "question": "All of the following are movements performed by an aircraft, except:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yaw",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Pitch",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Roll",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Suspension",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 143,
+        "question": "What is the name of the movement around the axis perpendicular to the plane of the rotors of a quadcopter (Figure)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Roll",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Pitch",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yaw",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Throttle",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 144,
+        "question": "UAVs have certain environmental limitations (operating temperature range, maximum wind resistance, weather conditions, etc.) Where can the UAV operator find this information?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In the user manual",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "On the Authority's website",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "In the UAV forums",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "On the website of any UAV representative",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 145,
+        "question": "The higher the ambient temperature:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "the worse the flight performance will be due to the higher air density",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "the worse the flight performance will be due to lower air density",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "the better the flight performance will be due to the lower air density",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "the better the flight performance will be due to the higher air density",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 146,
+        "question": "What is the main function of command and control (C2)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Taking photos and recording videos",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Activate the lights and parachute",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Create the necessary movements and guide the UAVs",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Obtain information about the height and position of the UAV",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 147,
+        "question": "How many satellites are needed to get the position x, y, z?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "At least 4",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "At least 3",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "One or two is enough",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The number of satellites is irrelevant",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 148,
+        "question": "What are the most common data link frequencies for drones?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "25 GHz and 40 GHz",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "2.4 GHz and 5.8 GHz",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "15 GHz and 30 GHz",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "100 MHz and 150 MHz",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 149,
+        "question": "What is considered autonomous flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "An operation in which an unmanned aircraft is operated manually by a pilot",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "An operation in which an unmanned aircraft operates in an automatic mode and the operator is able to intervene in the event of an emergency",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "An operation in which an unmanned aircraft operates in an automatic mode and the operator can intervene at any time",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "An operation in which an unmanned aircraft is operated without the pilot being able to intervene",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 150,
+        "question": "Before each flight, the pilot must inspect the main components of the UAV. What is the purpose of this inspection?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Make sure the camera is in good condition to take photos",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "That the UAV is in good condition and safe for flight",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Make sure the batteries are fully charged",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Make sure that the command and control are working properly and that there is no interference",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 151,
+        "question": "How can the UAV operator learn how to control the UAV in all phases of flight?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Visit the authority's website",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Looking at the UAV forums",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Study of the UAV user manual",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Watching videos on the Internet",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 152,
+        "question": "What is the function of the Geocaging system?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Flying in a restricted area is not permitted",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The definition of a volume of airspace where unmanned aircraft cannot fly",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The definition of a volume of airspace where unmanned aircraft will fly and cannot leave",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "The definition of a volume of airspace where other unmanned aircraft cannot enter",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 153,
+        "question": "What is the function of the Geofencing system?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Flying in a restricted area is not permitted",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The definition of a volume of airspace within which unmanned aircraft cannot fly",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "The definition of a volume of airspace where unmanned aircraft will fly and from which they cannot leave",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The definition of a volume of airspace where other unmanned aircraft cannot enter",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 154,
+        "question": "To make a good flight planning, before the flight it is necessary, to set the parameters of the lost link, set the maximum flight altitude, load the geographical zone data into the geo-awareness system and load the UAV operator registration number into the remote identification system. However, where can the procedures for defining and loading this data into the UAV be found?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In the maintenance instructions for the UAV provided by the manufacturer",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "On the official website of the National Authority",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "On the official EASA website",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "In the UAS user manual provided by the manufacturer",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 155,
+        "question": "How can the UAV operator know the maintenance required for the UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Refer to the authority's website",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Looking at the UAV pilot forum",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Looking at the maintenance instructions of the UAV",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "The UAV does not require maintenance",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 156,
+        "question": "Is it necessary to maintain your UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes, only in case of an accident",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "No, maintenance is not necessary",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yes, only in case of flight over gatherings of people",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Yes, taking into account the maintenance instructions",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 157,
+        "question": "What is the CE marking that model aircraft should bear?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "C2",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "C3",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "C0",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "C4",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 158,
+        "question": "Does the UAS operator have to have a UAS to be registered in a MS (Member State)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "No",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Must have had at least in the past",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Depends on the legislation of the MS",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 159,
+        "question": "What does the maximum take-off mass (MTOM) include?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The maximum mass of the non-EU",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The maximum unladen mass, payload and fuel",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "The maximum mass, payload, accessories",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The maximum unladen mass and the payload",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 160,
+        "question": "Self-built UAVs can:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "become a model for mass production and sale",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "used for the manufacturer's or assembler's own use",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "cannot be used without certification",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "can only operate in the certified category",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 161,
+        "question": "Can the GDPR be applied to the operation of the UAS?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes, always",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Yes, if the UAS processes personal data",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "No, it does not apply to the open category",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "No, there is no connection between UAS and GDPR",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 162,
+        "question": "What is GDPR?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The General Data Protection Regulation",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The data protection guide for a UAV operator",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The General Regulation for the Operation of Public Flights",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Regulation on the procedures for the transport of dangerous goods",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 163,
+        "question": "What is personal data?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Any information relating to an identifiable natural person",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Any information regarding the performance limitations of individuals",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Any right or good that belongs (property) to an individual",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "A very large set of data generated by people using the Internet",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 164,
+        "question": "Can I photograph people with a drone?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes, but only if I comply with legal requirements (GDPR and privacy regulations)",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Yes, because it is my UAS and I have complete freedom to use my property",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Only with prior notification to the competent authority",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "No, taking photos with UAVs is strictly prohibited",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 165,
+        "question": "I took a photo of someone and they come to me asking to delete the image, what should I do?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "I am obliged to delete the image, if there is no relevant exception",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "It is my image and I have no obligation to delete it",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "I am only obliged to delete the image if requested by the competent authority",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "I can do it later when I get home and see the image on my computer",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 166,
+        "question": "Are you authorized to take pictures or videos of targeted individuals in their lives?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes, if the images and videos are not shared on the Internet",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Yes, if the images and videos are taken in private spaces",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yes, if the images and videos are taken in public places",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "No, unless you have explicit authorization from these individuals",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 167,
+        "question": "What if people are in a public place and are recorded in my drone footage? Is this allowed?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes, if the images and videos are not shared on the Internet",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Yes, if each person's recordings last less than 5 seconds",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yes, if the images and videos do not target individuals",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "No, this is always explicitly prohibited by the regulation",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 168,
+        "question": "What is the substantive scope of Regulation (EU) 2016/679?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Open Category UAVs carrying optical payloads",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "In UAVs operating in subcategory A3",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "In whole or in part, to the automated processing of personal data, as well as to the non-automated processing of such data which are included or are to be included in a filing system",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "By a natural person in the context of an exclusively personal or household activity",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 169,
+        "question": "Personal data is:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "High-definition image files",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Audio files that can be used to identify a natural person",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Any information relating to an identified or identifiable natural person ('data subject')",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "The operator number, which is accessible through 'direct remote identification'",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 170,
+        "question": "When processing is based on consent then:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The data subject does not have the right to withdraw his consent",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "The controller is able to demonstrate that the data subject consented to the processing of the personal data",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The consent of the data subject is only given by written declaration",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Withdrawing consent is clearly more difficult than granting it",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 171,
+        "question": "The processing of personal data that reveals:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "racial or ethnic origin",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "political views",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "religious or philosophical beliefs or membership in a trade union",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "all of the above answers are correct",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 172,
+        "question": "If the minor is under 16 years of age, the processing of personal data is lawful only when:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "the controller makes reasonable efforts to conceal the minor's identity",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "these result from a special technical processing associated with natural, biological characteristics",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "only if and to the extent that such consent is given or approved by the person having parental responsibility for the minor",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "the data subject has given explicit consent to the processing of those personal data for one or more specific purposes",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 173,
+        "question": "The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed and, where that is the case, the right of access to the personal data and to the following information:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "the purposes of the processing",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "the right to submit a complaint to a supervisory authority",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "a and b are correct",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "the data subject does not have the right of access due to confidentiality",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 174,
+        "question": "The data subject has the right to:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "to require the controller to correct inaccurate personal data concerning him without undue delay",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "submitting a complaint to the supervisor of the data controller",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "require the completion of unnecessary personal data",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "to be given a copy of the personal data being processed",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 175,
+        "question": "The controller and the processor and, where applicable, their representatives:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "they are not expected to cooperate with the supervisory authority in the exercise of its duties",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "cooperate, upon request, with the supervisory authority in the exercise of their duties",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "can provide delay information, gradually, without undue delay",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 176,
+        "question": "Is it recommended to insure a UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In accordance with the national legislation of each Member State",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Yes, even when the law does not require it",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "No, it is not useful to insure a UAV",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "No, the law does not require it",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 177,
+        "question": "Which of the following is the correct answer?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "All my activities are automatically covered by my liability insurance",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "It is mandatory to have specific insurance to travel with my UAV",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "I need to check under what conditions I must have insurance for UAV flights according to the national legislation of each Member State",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "I don't need insurance to fly a UAV",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 178,
+        "question": "Can I be held liable in the event of an accident or incident?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Only in case of damage to third parties",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "No, I will not be responsible",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yes, I can always be responsible",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Yes, since I am the operator or the exploited person, I of the UAV and violated the regulations",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 179,
+        "question": "When is insurance required for my UAV when flying in Greek airspace?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In any case",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Only when I use it professionally",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "When the MTOM of my private use aircraft is over 4 kgs",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "b and c",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 180,
+        "question": "For which categories of UAVs is insurance coverage required?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Open Category, in case of professional use",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Special Category",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Certified Category",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "All of the above",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 181,
+        "question": "Is there a requirement for third-party liability insurance coverage for an open category A1 UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "No, it is not required for category A1",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Insurance is mandatory for all categories of UAVs",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "It is not mandatory, only if the owner wishes",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Insurance must be in place if the UAV is operated for professional use",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 182,
+        "question": "The Operator/Owner/Operator of a UAV of each category/subcategory, in the event of use for professional purposes, must insure the UAV:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "against material damage to third parties up to 1,000,000 and for bodily injury up to 150,000 euros",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "no security is required",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "against material damage to third parties up to 150,000 and for bodily injury up to 1,000,000 euros",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "against material damage to third parties up to 500,000 and for bodily injury up to 1,000,000 euros",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 183,
+        "question": "A UAV pilot, through negligence, did not renew his insurance policy which expired and made a flight. Who is legally responsible in this case?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Insurance is the exclusive obligation of the operator (owner) and anyone who violates the minimum insurance obligation imposed by the regulation is punished with imprisonment for up to six months and a fine",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Flying with insurance is the sole obligation of the pilot because he must check himself that the UAS documents are in order before the flight and is punishable by imprisonment of up to six months and a fine",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Flying with valid insurance is an obligation of the operator (owner) and the respective pilot. Anyone who violates the minimum insurance obligation imposed by the regulation is punished with administrative and criminal sanctions",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "The legal responsibility lies with the insurance company",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 184,
+        "question": "Are hazardous materials allowed to be transported in the open category?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes if there is permission from the authority",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "no",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Yes",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "depends on the legislation of the Member State",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 185,
+        "question": "Can a Member State adopt specific legislation on issues such as protection against unlawful acts?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "no",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "yes",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "depends on the K-M",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "rarely",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 186,
+        "question": "Does the UAV operator who has a UAV with a MTOM of 200 grams have to be registered in a Member State's registry?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "yes",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "no",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "yes if his UAV has a sensor that records personal data",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "depends on the operator",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 187,
+        "question": "The registration number of an operator in the register of a Member State must:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "be visibly affixed to the UAV",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "the operator must have it with him/her",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "be only electronically displayed in the register",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "depends on the legislation of the Member State",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 188,
+        "question": "The registration of an operated UAV in our country's registry lasts:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "two (2) years",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "three (3) years",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "five (5) years",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "does not expire",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 189,
+        "question": "Can the operated UAV be removed from the register of one Member State and registered in the register of another Member State?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes, if the country of residence changes",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Only with a solemn declaration from the operator",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "No",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "depends on the K-M",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 190,
+        "question": "How can I identify a UAV that I am not in visual contact with?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "I can't",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "only if it has a remote identification system",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "with the geofencing system",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "with binoculars",
+                "correct": false
+            }
+        ]
+    }
+]
