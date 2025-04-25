@@ -440,6 +440,14 @@ const ExamApp = () => {
 
       <div className="mt-6 text-sm text-gray-500 text-center">
         <p>EASA A1/A3 Exam Practice App</p>
+        <a
+          href="https://dronelab.dev/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-2 inline-block text-blue-500 hover:text-blue-700"
+        >
+          [Brought to you by dronelab.dev]
+        </a>
       </div>
     </div>
   );
