@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import questionsData from './data/a1_a3_exam_questions.json';
+import a1a3QuestionsData from './data/a1_a3_exam_questions.json';
+import a2QuestionsData from './data/a2_exam_questions.json';
 
 const ExamApp = () => {
+  const [examType, setExamType] = useState<'A1_A3' | 'A2'>('A1_A3');
   const [questions, setQuestions] = useState<{
     question: string;
     options: { text: string; correct: boolean; }[];
@@ -28,7 +30,7 @@ const ExamApp = () => {
   // Initialize or load questions and state
   useEffect(() => {
     // Initialize with JSON file questions or try to load from localStorage
-    const savedQuestions = localStorage.getItem('easaExamQuestions');
+    const savedQuestions = localStorage.getItem(`easaExamQuestions_${examType}`);
     if (savedQuestions) {
       try {
         const parsedQuestions = JSON.parse(savedQuestions);
@@ -36,7 +38,7 @@ const ExamApp = () => {
           setQuestions(parsedQuestions);
           
           // Also load saved wrong answer indices if available
-          const savedWrongAnswers = localStorage.getItem('easaExamWrongAnswers');
+          const savedWrongAnswers = localStorage.getItem(`easaExamWrongAnswers_${examType}`);
           if (savedWrongAnswers) {
             try {
               const parsedWrongAnswers = JSON.parse(savedWrongAnswers);
@@ -56,6 +58,7 @@ const ExamApp = () => {
     }
     
     // If no saved questions or error parsing, use questions from JSON file
+    const questionsData = examType === 'A1_A3' ? a1a3QuestionsData : a2QuestionsData;
     setQuestions(questionsData.map(q => ({
       question: q.question,
       options: q.answers.map(a => ({
@@ -63,7 +66,21 @@ const ExamApp = () => {
         correct: a.correct
       }))
     })));
-  }, []);
+  }, [examType]);
+
+  const handleExamTypeChange = (newExamType: 'A1_A3' | 'A2') => {
+    setExamType(newExamType);
+    
+    // Reset all state when switching exam types
+    setCurrentQuestionIndex(0);
+    setSelectedAnswer(null);
+    setIsAnswered(false);
+    setScore(0);
+    setQuestionsAsked(0);
+    setCompletedQuestionIndices(new Set());
+    setWrongAnswerIndices([]);
+    setView("quiz");
+  };
 
   const getNextQuestion = () => {
     // If all questions have been asked at least once, reset the completed set
@@ -114,7 +131,7 @@ const ExamApp = () => {
         setWrongAnswerIndices(updatedWrongAnswers);
         
         // Save to localStorage
-        localStorage.setItem('easaExamWrongAnswers', JSON.stringify(updatedWrongAnswers));
+        localStorage.setItem(`easaExamWrongAnswers_${examType}`, JSON.stringify(updatedWrongAnswers));
       }
     }
     
@@ -161,7 +178,7 @@ const ExamApp = () => {
     setQuestions(updatedQuestions);
     
     // Save to localStorage
-    localStorage.setItem('easaExamQuestions', JSON.stringify(updatedQuestions));
+    localStorage.setItem(`easaExamQuestions_${examType}`, JSON.stringify(updatedQuestions));
     
     // Reset the form
     setNewQuestion({
@@ -311,7 +328,7 @@ const ExamApp = () => {
             <button 
               onClick={() => {
                 setWrongAnswerIndices([]);
-                localStorage.removeItem('easaExamWrongAnswers');
+                localStorage.removeItem(`easaExamWrongAnswers_${examType}`);
               }} 
               className="px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600"
             >
@@ -333,7 +350,33 @@ const ExamApp = () => {
   return (
     <div className="max-w-3xl mx-auto p-6 bg-gray-50 rounded-lg shadow-lg">
       <div className="mb-4">
-        <h1 className="text-2xl font-bold text-center mb-2">EASA A1/A3 Exam Practice</h1>
+        <h1 className="text-2xl font-bold text-center mb-2">EASA {examType.replace('_', '/')} Exam Practice</h1>
+        
+        {/* Exam Type Selector */}
+        <div className="flex justify-center mb-4">
+          <div className="bg-white rounded-lg p-1 inline-flex">
+            <button
+              onClick={() => handleExamTypeChange('A1_A3')}
+              className={`px-4 py-2 rounded ${
+                examType === 'A1_A3' 
+                  ? 'bg-blue-500 text-white' 
+                  : 'text-gray-600 hover:bg-gray-100'
+              }`}
+            >
+              A1/A3 Exam
+            </button>
+            <button
+              onClick={() => handleExamTypeChange('A2')}
+              className={`px-4 py-2 rounded ${
+                examType === 'A2' 
+                  ? 'bg-blue-500 text-white' 
+                  : 'text-gray-600 hover:bg-gray-100'
+              }`}
+            >
+              A2 Exam
+            </button>
+          </div>
+        </div>
         
         {/* Navigation */}
         <div className="flex justify-center space-x-2 mb-4">
@@ -439,7 +482,7 @@ const ExamApp = () => {
       )}
 
       <div className="mt-6 text-sm text-gray-500 text-center">
-        <p>EASA A1/A3 Exam Practice App</p>
+        <p>EASA Exam Practice App</p>
         <a
           href="https://dronelab.dev/"
           target="_blank"
