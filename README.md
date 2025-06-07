@@ -1,4 +1,4 @@
-# EASA A1/A3 Exam Practice App
+# EASA A1/A3 and A2 Exam Practice App
 
 Hosted version is available here: [EASA Exam practice](https://dronelab.dev/easa-exam/).
 
