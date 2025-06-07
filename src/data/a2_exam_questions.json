@@ -1,0 +1,1588 @@
+[
+    {
+        "question_number": 1,
+        "question": "How does wind speed change with increasing altitude above the ground?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The wind is getting stronger",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The air is filling",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The wind is getting colder",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The wind is getting weaker",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 2,
+        "question": "As temperature reduces flight performance and duration will…",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Decreased",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Increase",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "It will not change",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Changed marginally",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 3,
+        "question": "In a mountainous area, the flight duration of a UAV...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Decreased due to lower air density",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "It increases due to lower air density",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Decreased due to higher air density",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Increases due to higher air density",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 4,
+        "question": "Visibility at ground level can be reduced by:\n1. fog\n2. rain\n3. wind\n4. clouds",
+        "answers": [
+            {
+                "option": "a",
+                "text": "1 and 2",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "1 and 4",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "2 and 4",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "1 only",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 5,
+        "question": "Visibility at ground level can be reduced by:\n1. wind\n2. snow\n3. fog and dust\n4. clouds",
+        "answers": [
+            {
+                "option": "a",
+                "text": "2 and 3",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "1 and 4",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "1 only",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "only 3",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 6,
+        "question": "What should be taken into account in very high temperatures in summer?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Reduced flight performance due to lower air density",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Increased flight performance due to lower air density",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Increased flight performance due to longer battery life",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Reduced flight performance due to higher air density",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 7,
+        "question": "What should I consider in high temperatures in summer?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "That batteries are prone to overheating and may catch fire",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Flight performance increases due to longer battery life",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "That flight performance is reduced due to the longer battery operating time",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "That flight performance is reduced due to higher air density",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 8,
+        "question": "In high temperatures in the summer you should take into account…",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Local thermal currents can cause turbulence",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Increased flight performance due to longer battery life",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Reduced flight performance due to higher air density",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Increased flight performance due to lower air density",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 9,
+        "question": "In windy conditions near obstacles, it is possible to...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Turbulence occurs",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The UAVs move in the direction of the wind",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Visibility is reduced",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The temperature decreases",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 10,
+        "question": "In an open environment, the wind speed in meters 100 above the ground surface...",
+        "answers": [
+            {
+                "option": "a",
+                "text": "is up to 50% higher than the ground surface",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "is up to 100% increased compared to with the ground surface",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "is up to 50% reduced compared to with the ground surface",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "is up to 100% reduced compared to with the ground surface",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 11,
+        "question": "Compared to the open environment, wind speeds near many obstacles or cities\n1. decrease above the ground surface\n2. they grow stronger with increasing altitude\n3. are higher above the ground surface\n4. decrease more slowly with increasing altitude",
+        "answers": [
+            {
+                "option": "a",
+                "text": "1 and 2",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "3 and 4",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "1 and 4",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "2 and 3",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 12,
+        "question": "What should be considered if the wind speed is just below the power limit stated in the UAV manual?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "When gusts occur, unstable behavior may occur in relation to the height and position of the UAV.",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Battery life is likely to improve",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Flight performance is likely to improve.",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "The UAV can dive at a higher rate in GPS mode.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 13,
+        "question": "What effect can heavy rain have on UAVs?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "The UAV can crash",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "The UAV can climb uncontrollably",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "The speed of the UAV will increase",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Rain has no effect",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 14,
+        "question": "Where does turbulence often occur?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Near obstacles",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Above fields",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Over water",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Due to the wind, only at high altitudes",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 15,
+        "question": "What wind characteristics affect the flight of a UAV?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Wind speed and direction",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "UAV towing vehicle",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Air temperature",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Cloud direction",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 16,
+        "question": "What should be taken into account when flying a UAV with an external temperature of -10C°?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Pre-warming the batteries and storing spare batteries in a warm place",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "To ignite a fireball at the take-off and landing point",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "That there is no effect of temperature on batteries",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Batteries improve performance at low temperatures",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 17,
+        "question": "What should be taken into account when flying a UAV when turbulence occurs?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Unpredictable flight behavior of the UAV",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "That the UAV is slowing down",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Nothing, the UAV is always stable",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Easily predictable flight behavior of the UAV",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 18,
+        "question": "What can be used as an advantage to extend the flight duration of a UAV that returns to the takeoff point after flight operation?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "a strong wind",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "tornado",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "vertical wind from the right",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "vertical wind from the left",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 19,
+        "question": "What should always be taken into account when there is wind?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "That headwinds and headwinds can affect the operating range of the UAV",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Wind causes turbulence at high altitudes, so the UAV should not fly too high",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "That the landing site wiring is quite extensive, as automatic landing with GPS may not be possible",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "That only UAV operators with a UAV safe use certificate can fly in stormy conditions",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 20,
+        "question": "In the weather chart below, where should you encounter the least strong winds?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Point A",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Point B",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Point C",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Point D",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 21,
+        "question": "Wind is determined by two elements:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "From temperature and density",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "From pressure and temperature",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Direction and speed",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Verticality or verticality",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 22,
+        "question": "What should you do when a storm approaches your operating zone?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Continue to fly quietly",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "You land quickly",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Increase rotor speeds",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Reduce rotor speeds",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 23,
+        "question": "Installing the payload (e.g. connecting a camera) to a UAV results in:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Increase in flight duration",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Reduction of flight duration",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Does not affect the duration of the flight",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Reduction of the power required for take-off",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 24,
+        "question": "MTOM means:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Maximum take-off mass",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Minimum take-off mass",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Multi-wheel take-off mass",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Maximum removal mass",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 25,
+        "question": "The center of gravity of the UAV is:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "A UAV construction point located in the center of the model",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "A point at which all drag forces acting on the aircraft are applied",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "A point at which all forces acting on the aircraft are applied",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "A point where the weight distribution is equal in all directions and depends on the gravitational field.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 26,
+        "question": "What does the letter \"S\" on the battery packaging mean:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Series connection of batteries / cells (cells)",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Parallel connection of battery/cells (cells)",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Maximum degree of cargo unloading",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Increased performance category",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 27,
+        "question": "The nominal voltage of a Li-Po battery cell is:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "3.0V",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "3.5V",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "3.7 V",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "4.2V",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 28,
+        "question": "In case of long-term storage of a LiPo battery that is 4.05V per cell:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Charge the battery to the maximum voltage level",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "We discharge the battery to the minimum voltage level",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "We discharge up to the nominal voltage of the battery",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Charge up to the nominal voltage of the battery",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 29,
+        "question": "What does the letter \"P\" on the battery packaging mean:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Series connection of batteries / cells (cells)",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Parallel connection of battery/cells (cells)",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Maximum degree of cargo unloading",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Increased performance category",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 30,
+        "question": "What does 40C mean in LiPo battery:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Maximum discharge current 40A",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Maximum discharge current",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Maximum charging current",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Maximum battery operating temperature",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 31,
+        "question": "The recommended charging mode for the LiPo pack is:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Charging",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Fast charging",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Storage",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Cell Balancing and Charging",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 32,
+        "question": "In case of long-term storage of a LiPo battery that is 3.5V for the cell:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Charge the battery to the maximum voltage level",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "We discharge the battery to the minimum voltage level",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "We discharge up to the nominal voltage of the battery",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Charge up to the nominal voltage of the battery",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question_number": 33,
+        "question": "What does CG mean?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Ground Control Station",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Center of gravity",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Constant gravity",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Controlled gravity",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 34,
+        "question": "Where can you normally find the UAV Maximum Takeoff Mass (MTOM)?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "In the manufacturer's instructions",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "In specialized UAV forums",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Weighing the UAV at home",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "On the website of your air sports club",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 35,
+        "question": "In the following UAVs, where is the best location (yellow dots) to add payload and ensure stability?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Point a",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Point b",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Point c",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Point d",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 36,
+        "question": "In the following UAVs, where is the best location (yellow dots) to add payload and ensure stability?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Point a",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Point b",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Point c",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Point d",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 37,
+        "question": "Payload can be defined as",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Maximum take-off mass – the Empty weight",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Maximum take-off mass / Empty weight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Maximum take-off mass * Empty weight",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Maximum take-off mass + Empty weight",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 38,
+        "question": "For a fixed-wing UAV, what is the loading factor when it maintains the same altitude and rotates around the longitudinal axis (pitch) at an angle of 60°?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "0.5",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "1.25",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "2",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "2.5",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 39,
+        "question": "The flight duration of a UAV with a payload is:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Always more when the payload is installed",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Always less when the payload is installed",
+                "correct": true
+            },
+            {
+                "option": "c",
+                "text": "Unchanged when the payload is installed",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "50% less when the payload is installed",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 40,
+        "question": "1500mah lipo battery label says \"Never charge the battery with more than 5C\", this means:",
+        "answers": [
+            {
+                "option": "a",
+                "text": "It could be charged with a maximum current of 5A",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "It could be charged with a maximum current of 1.5A",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "It could be charged with a maximum current of 7.5A",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "It could be charged with a maximum current of 75A",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 41,
+        "question": "What should you do when the battery is swollen?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "You must pierce the packaging",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "You must use it for another 10 cycles",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "You need to replace it",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "You must cover it with other packaging material.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 42,
+        "question": "Compared to NiMH batteries, which of the following is not true?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Li-Po batteries have a shorter life cycle",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "Li-Po batteries are more prone to fire",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Li-Po batteries are more stable during the charging process",
+                "correct": true
+            },
+            {
+                "option": "d",
+                "text": "Li-Po batteries have better specific energy",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 43,
+        "question": "When a Li-Po battery reaches the end of its life",
+        "answers": [
+            {
+                "option": "a",
+                "text": "Her temperature has risen excessively after the flight",
+                "correct": true
+            },
+            {
+                "option": "b",
+                "text": "Her temperature has dropped too much after the flight",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Its packaging oxygenates and turns black",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Its packaging oxygenates and turns white",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question_number": 44,
+        "question": "Are you ready to fly with a DJI Phantom 3 (1.3 kg). Is it allowed in category A2?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "No, it is too heavy and should only be used in category A3",
+                "correct": false
+            },
+            {
+                "option": "b",
+                "text": "No, it is not included in class C2 and therefore is never allowed in category A2",
+                "correct": false
+            },
+            {
+                "option": "c",
+                "text": "Yes, it is allowed without restrictions in category A2",
+                "correct": false
+            },
+            {
+                "option": "d",
+                "text": "Yes, during the transition period and at a safe distance from people",
+                "correct": true
+            }
+        ]
+    },
+    {
+       "question_number": 45,
+       "question": "What is the minimum safety distance that must be maintained by uninvolved persons when the UAV is flying at a height of 40m in low speed mode in category A2?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "5m",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "15m",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "30m",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "40m",
+               "correct": true
+           }
+       ]
+   },
+   {
+       "question_number": 46,
+       "question": "What is the minimum safe distance that must be maintained from uninvolved persons when the UAV is flying at a height of 20m without low speed operation in category A2?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "5m",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "20m",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "30m",
+               "correct": true
+           },
+           {
+               "option": "d",
+               "text": "40m",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 47,
+       "question": "What is the minimum safe distance that must be maintained by bystanders when the UAV is flying at a height of 20 meters with low speed operation in category A2?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "5m",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "20m",
+               "correct": true
+           },
+           {
+               "option": "c",
+               "text": "30m",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "40m",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 48,
+       "question": "What is the minimum safe distance that must be maintained from uninvolved persons when the UAV flies at a height of 3m with low speed operation in category A2?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "4m",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "5m",
+               "correct": true
+           },
+           {
+               "option": "c",
+               "text": "10m",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "30m",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 49,
+       "question": "What is the maximum speed allowed for the UAV to be in low speed mode?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "2m/s",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "3m/s",
+               "correct": true
+           },
+           {
+               "option": "c",
+               "text": "4m/s",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "5m/s",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 50,
+       "question": "What is the highest class of \"C\" UAV that is allowed to fly in category A2 after the transition period?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "C0",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "C1",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "C2",
+               "correct": true
+           },
+           {
+               "option": "d",
+               "text": "C3",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 51,
+       "question": "Which of the following are considered uninvolved individuals?\n1) People sitting in a park in the flight operation zone\n2) People attending a large music festival and are informed via a declaration on their ticket about UAV flights\n3) UAV observer located next to the operator\n4) People who are in the business zone but do not want to participate\n5) The pilot's friend who blocks access to the operations area",
+       "answers": [
+           {
+               "option": "a",
+               "text": "1, 3, 5",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "2, 3, 4",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "1, 2, 4",
+               "correct": true
+           },
+           {
+               "option": "d",
+               "text": "2, 4, 5",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 52,
+       "question": "During a UAV operation, what is the Ground Hazard?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "The risk of the operator being attacked by another person.",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "The risk of a person being hit by the UAV in the event of loss of control.",
+               "correct": true
+           },
+           {
+               "option": "c",
+               "text": "The risk of collision with another aircraft (manned or unmanned) flying in the same area.",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "The risk of fire in the event of an accident with the UAV.",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 53,
+       "question": "Which of the following systems that can be integrated into UAVs is considered ground hazard mitigation?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "Geofencing",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "Detection and avoidance.",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "Geocaging.",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "Parachute.",
+               "correct": true
+           }
+       ]
+   },
+   {
+       "question_number": 54,
+       "question": "The following factors are important in determining the underlying risk:\n1. The maximum characteristic dimension of a UAV\n2. Proximity (distance) to an airport or heliport\n3. The flight is in VLOS or BVLOS\n4. The presence of other UAVs in the area of operation\n5. The number of people in the area of the flight operation",
+       "answers": [
+           {
+               "option": "a",
+               "text": "1, 3 and 4",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "2, 3 and 5.",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "1, 3 and 5.",
+               "correct": true
+           },
+           {
+               "option": "d",
+               "text": "2, 4 and 5.",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 55,
+       "question": "The following are mitigation measures aimed at reducing soil risk, in addition to the proposal:",
+       "answers": [
+           {
+               "option": "a",
+               "text": "Equip the SMEA with a collision mitigation device",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "Flight in BVLOS",
+               "correct": true
+           },
+           {
+               "option": "c",
+               "text": "Flight in a controlled terrain area",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "Define a ground hazard safety zone",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 56,
+       "question": "Kinetic energy, which determines the energy impact of the UAV when it falls to the ground, depends on the following factors:\n1. The burden of UAVs\n2. The maximum speed of the fixed-wing UAV\n3. The diameter of the UAV frame for multicopters\n4. The capacity of the batteries or fuel tank\n5. The number of rotors",
+       "answers": [
+           {
+               "option": "a",
+               "text": "1, 2 and 3",
+               "correct": true
+           },
+           {
+               "option": "b",
+               "text": "2, 3 and 5",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "1, 3 and 4",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "2, 4 and 5",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 57,
+       "question": "The risk assessment must include:\ni) ground obstacles\nii) wind direction and force\niii) securing the take-off and landing site\niv) CE class of the UAV used",
+       "answers": [
+           {
+               "option": "a",
+               "text": "i, iv",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "i, iii, iv",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "i, ii, iii, iv",
+               "correct": true
+           },
+           {
+               "option": "d",
+               "text": "ii, iii, iv",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 58,
+       "question": "Drone flights near moving vehicles:",
+       "answers": [
+           {
+               "option": "a",
+               "text": "it may be difficult due to air turbulence",
+               "correct": true
+           },
+           {
+               "option": "b",
+               "text": "cannot be done in the open category",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "require the driver's consent",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "do not affect the ground hazard",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 59,
+       "question": "Drone flights near Wi-Fi transmitters:",
+       "answers": [
+           {
+               "option": "a",
+               "text": "do not affect the UAV flight",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "C2 ligament reinforcement is required",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "may cause problems in UAV control",
+               "correct": true
+           },
+           {
+               "option": "d",
+               "text": "flights near Wi-Fi transmitters are prohibited",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 60,
+       "question": "Which of these UAV systems increases the safety of people on the ground?",
+       "answers": [
+           {
+               "option": "a",
+               "text": "Fail-safe system",
+               "correct": true
+           },
+           {
+               "option": "b",
+               "text": "emergency flight termination system",
+               "correct": false
+           },
+           {
+               "option": "c",
+               "text": "geo-awareness system",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "direct remote identification system",
+               "correct": false
+           }
+       ]
+   },
+   {
+       "question_number": 61,
+       "question": "Flying on the side of a building, where the wind is blowing:",
+       "answers": [
+           {
+               "option": "a",
+               "text": "it is safe because the UAV is protected from the wind",
+               "correct": false
+           },
+           {
+               "option": "b",
+               "text": "it is dangerous due to turbulence",
+               "correct": true
+           },
+           {
+               "option": "c",
+               "text": "exceeds the flight rules in the open category",
+               "correct": false
+           },
+           {
+               "option": "d",
+               "text": "could only be done in manual flight mode (automatic modes are not allowed)",
+               "correct": false
+           }
+       ]
+   }
+]
